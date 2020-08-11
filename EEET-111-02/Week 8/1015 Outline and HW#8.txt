@@ -1,0 +1,49 @@
+Week 8 Session 01
+ 
+Branch current analysis breakout problem from Friday
+- Review from Friday
+
+MESH ANALYSIS
+ 
+- Intro and example
+ 
+- Breakout problem (intro)
+
+ 
+HW#8 ASSIGNMENT - Due next Monday, 10/22 at the start of class
+
+Individual: Chapter 8, problems: 24a, 25, 27 and 30
+
+Team: Chapter 8, problems: 26, 28 and 31
+
+* In all cases, you may use your calculator's equation solver OR the method of
+determinants to solve the problems, but show your work!
+
+
+Reminders
+
+1) HW#7 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) QUIZ This week (session 3)
+- Mesh analysis, up to a 3x3 system
+- KNOW the procedure, YOUR calculator and KVL
+
+3) Continue reading in chapter 8 (MESH with current sources on Wed)
+- Include Appendix B (method of determinants)
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

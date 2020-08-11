@@ -1,0 +1,44 @@
+Week 6 Session 01
+ 
+Exam #2 - Outline/discussion
+
+Questions on Friday's breakout problems?
+
+Questions on volt-meter loading?
+
+Series-Parallel Networks
+- General approach
+- Reduce and Return
+- Block Diagram (intro)
+  * Breakout problem
+
+HW#6 ASSIGNMENT - Due next week at the start of class (Wednesday, 10/10)
+ 
+Individual:
+- Chapter 7 problems: 3(a & b), 4(a & b), 6, 17, 19, 23, 27, 45
+ 
+Team:
+- Chapter 7 problems: 15, 25, 33 
+ 
+Reminders
+ 
+1) HW#5 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+ 
+2) Exam #2 - Session 03 (Friday, 10/05) THIS WEEK
+- Primarily Sections 5.1 to 6.13 with some chapter 7 material 
+- 50 minutes, majority M/C
+- Study from the outline described in class
+- See me or our LAs with questions
+ 
+3) Finish reading chapter 7 for Wednesday (7.6 through 7.10)
+
+
+
+
+
+
+
+

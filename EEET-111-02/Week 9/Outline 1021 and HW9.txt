@@ -1,0 +1,30 @@
+Week 9 Session 01
+
+Nodal Analysis - Intro
+
+- Intro and procedure
+
+- Example problem
+
+- Breakout problem
+
+HOMEWORK #9 ASSIGNMENT
+(Due next Monday, 10/29 at the start of class)
+
+Individual: CH8 problems 41, 42, 44 
+
+Team: CH8, problems 50 (do not use source conversion), 51
+      CH9: Problem 2
+
+* In all cases, you may use your calculator's equation solver OR the method of
+determinants to solve the problems, but show your work!
+
+Reminders
+
+1) HW#8 - Due now
+
+2) Continue reading in chapter 8 (more nodal analysis) for Wednesday
+
+
+
+

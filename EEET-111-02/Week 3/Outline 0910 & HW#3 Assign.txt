@@ -1,0 +1,41 @@
+Week 3 Session 01 - Power, Energy and Efficiency 
+ 
+4.4 Power
+Introduction and Power Relationships
+- Example
+- ICP 1 (series) and ICP 2 (parallel)
+
+4.5 Energy
+Introduction and example
+- Breakout #1
+ 
+4.6 Efficiency
+Introduction and example
+- Breakout #2
+- Breakout #3
+ 
+Exam #1 Outline
+
+HW#3 Assignment (Due Monday, 09/17 at the start of class):
+
+* Note the modifications to the text problems as shown below *
+
+Individual 
+Chapter 4: 2 (use R=6.8 Ohms), 5 (use R=0.02 MOhms), 10 (use 125 mA), 12, 15, 21, 34, 48, 50 
+Chapter 5: 3, 8, 10, 16
+ 
+Team  
+Chapter 4 : 19 (use R=2 kOhms, 1 MOhms, and 100 Ohms), 37, and 60
+Chapter 5: 5, 20
+
+Reminders
+
+1) HW#2 - Due now (the solutions will be posted this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Exam #1 this Week (Friday)
+- Details in class today
+
+

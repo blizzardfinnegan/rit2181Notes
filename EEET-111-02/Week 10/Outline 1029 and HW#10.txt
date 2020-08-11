@@ -1,0 +1,44 @@
+Week 10 Session 01
+ 
+Thevenin's Theorem
+	- Intro
+	- Example
+ 
+ICP	- Find Vth and Rth (multiple source circuit)
+	- Finding Vth and Rth via experiment
+ 
+Norton's Theorem
+	- Intro
+	- Example
+ 
+Homework #10 - Due next Monday, 11/05 at the start of class
+
+Note that problems 9 and 19 are as shown in the text, problems 13 and 14 have been modified from the text (note the parenthesis). 
+IA9.2 Means – Instructor Assigned 9.2. For this problem, follow the instructions below to find the Norton Equivalent circuit for 
+the two networks called out (Fig 9.140 as is and Fig 9.141 modified with R = 4.7K Ohms).
+
+Individual Assignment, Chapter 9, problem: 9, 13 (find the Norton equivalent instead of the Thevenin equivalent), 14 (replace the 2A current source with a +72V voltage source, + terminal at the top)
+
+Team Assignment, Chapter 9, problem: 19 and
+Instructor Assigned 9.2: Find the Norton equivalent circuit for the network external to resistor "R" for the circuits shown in Figure 9.140 AND Figure 9.141 (Use R = 4.7k ohms, not 1200 Ohms for this figure)
+
+ 
+Reminders:
+ 
+1) HW#9 Due at the start of class
+- Late assignments will not be accepted
+ 
+2) Quiz this Friday, 11/02
+- Nodal Analysis
+
+3) Exam #3 (CH7 through CH9) - Wednesday,11/07
+
+
+
+
+
+
+
+
+
+ 

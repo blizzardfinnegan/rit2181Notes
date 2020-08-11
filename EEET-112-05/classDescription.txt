@@ -1,0 +1,8 @@
+EEET-112-05
+DC Circuits Lab
+Professor: S. Ciccarelli
+Semester: 2181 (20118 Fall)
+Time Slot: T 8-10 (8am-10am)
+
+Professor Ciccarelli is a good professor, with a good sense of humor. He regularly will show Dilbert slides in lecture, just to lighten the mood. He is a good lab professor as well, and will guide students as best he can.
+This course requires some basic levels of math, but most are discussed in lecture beforehand, so you should be familiar with what to do. The lab requires a breadboard and a wiring kit, which you will use in lab for the remainder of the semester. We highly recommend puchasing one outside of RIT's program, as RIT will most likely rip you off. You will want as big of a breadboard as physically possible, with as many wires as you can purchase for a reasonable price, as many wires will most likely get lost along the way.

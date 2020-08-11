@@ -1,0 +1,46 @@
+Week 12 Session 02
+
+Capacitor Transient Analysis - continued 
+
+- Discharge phase
+	Continued
+  	PSPICE simulation methods/results
+
+- Instantaneous values
+ 
+Reminders 
+ 
+1) Keep reading in chapter 10 for Friday
+- Capacitor initial conditions after the quiz
+
+2) Quiz on Friday - Capacitors (Intro and charge)
+- Calculate C (cap intro)
+- Approximate charge and discharge times, think tau
+- Determine time constants, tau
+- Find when Vc(t) reaches a specific voltage, tau or instantaneous values
+- Find Imax, t=0-, 0, 0+ discussions
+
+3) Class Next Week, Monday, 11/19:
+- No in-class meeting, class is ONLINE
+- You will review the posted PDF handouts, work in-class problems and then take an online quiz
+- The material will be posted by Monday morning at 8am
+- The quiz will be available from Monday, 11/19 at 12pm until Tuesday, 11/20 at 9pm (timed to 30 or 45 minutes)
+
+4) Office Hours next week, only on Monday 11/19
+-> 8-10am (usual time)
+-> Added: 10-11am and 2-3pm
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+
+ 

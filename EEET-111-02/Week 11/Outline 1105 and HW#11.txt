@@ -1,0 +1,40 @@
+Week 11 Session 1
+ 
+Exam Review and Team Problems 
+-Each team will SUBMIT their work at the end of class (class participation)
+
+1) RT, Current divider (5-10 mins)
+
+2) Finding information from MESH currents (5 min) 
+
+3) Superposition (5-10 min)
+
+4) Thevenin (10-20 min)
+ 
+Homework #11 - Due NEXT Monday, 11/12 at the start of class
+ 
+    * Individual: Chapter 10, problems 3, 4, 5, 17 and 19
+    * Team: Chapter 10, problems 10, 14, and 21
+ 
+Reminders
+ 
+1) HW #10 - Due at the start of class
+- No late work accepted
+
+2) Exam #3 on WEDNESDAY, 11/07 in class
+- See the posted outline from Friday's class
+* Study today's problems in detail (solutions will post at 4pm)
+* Be able to develop and solve MESH AND NODAL equations 
+* Understand the basics (KVL, KCL, Ohm's Law, Current Divider, etc)
+ 
+3) Friday - Capacitor Intro
+- Read 10.1 through 10.5 BEFORE CLASS (but AFTER Exam #3)
+
+
+
+
+
+ 
+
+
+ 

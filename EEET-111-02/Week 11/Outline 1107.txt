@@ -1,0 +1,30 @@
+Exam #3
+
+Primarily chapters 7.1 through 9.5
+
+--------- Outline---------------
+- All multiple Choice/no partial credit
+- The DC formula sheet will be provided
+- Bring your calculator and know how to use it (manual is ok)
+- You will need to solve a 3 equation system
+- 14 to 16 questions
+
+Series-Parallel Circuits (2-4Q)
+- Reduce and return approach
+- Block diagram approach
+- Ladder networks
+
+Analysis Methods (6-8Q)
+- Source conversions
+- Mesh analysis 
+- Nodal analysis 
+
+Network Theorems (6-8Q)
+- Superposition 
+- Thevenin 
+
+* CHECK YOUR WORK and know things like:
+- Ohm's Law, Power, KVL, KCL, voltage divider and current divider
+COLD!
+- How to use the results of MESH and NODAL to calculate power, voltage and current
+for any component

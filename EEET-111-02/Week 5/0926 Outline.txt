@@ -1,0 +1,26 @@
+Week 5 Session 02 - KCL Through Current Divider
+ 
+- Quiz?
+
+- KCL breakout Problems
+
+- Current Divider - Development and Example
+ 
+Reminders
+ 
+1) Quiz on Friday - Series circuits, KVL, power, power supplies/VR 
+ 
+2) Keep reading in chapter 6
+
+3) Exam #2 - NEXT FRIDAY (outline next Monday in class)
+
+
+ 
+
+
+
+
+
+
+
+

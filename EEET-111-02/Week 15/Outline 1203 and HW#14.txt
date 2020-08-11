@@ -1,0 +1,40 @@
+Week 15 Session 01 - Inductors Transient Storage Decay 
+
+Transient/Storage Phase
+- Finding VL(t)
+- Breakout problem
+
+R-L Decay Phase
+- Introduction
+- Minor circuit modification and reason
+- Analysis to determine iL(t) and VL(t)
+- Breakout - Decay phase problem
+
+HW #14 - Chapter 11 (Inductors), Due next Monday, 12/10
+    * Individual:	Chapter 11 problems 18 (Use IL(0) = -3mA), P24 (replace "E" with a short-circuit (0V), 31, 34, 38, 45
+    * Team: 		Chapter 11 problems 21 (Use L = 1mH), 46
+
+Reminders
+----------
+1) Homework #13 - Due today at the start of class
+- Late assignments will not be accepted
+
+2) Keep reading the inductor sections (11.9 - 11.14) of the text for Wednesday
+
+3) Check your final calculator course grade on myCourses (TODAY)
+- This is your unadjusted grade to date
+- I will update the gradebook on Tuesday afternoon to reflect:
+	Dropping your lowest 2 HWs
+	Dropping your lowest 2 Quizzes
+	Course Participation
+
+4) Quiz (our last one) - Friday
+- Inductors and inductor circuits
+
+
+
+
+
+
+
+

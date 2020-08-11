@@ -1,0 +1,29 @@
+Week 14 Session 03
+
+Quiz #10 - Capacitor Steady State/Charge, Inductor Intro
+
+Inductor Introduction (continued)
+- Manufacturer info/design support 
+- RF inductors (SMT and PCB)
+- Induced voltage, establishment of VL(t)
+	Example
+	ICP
+
+Inductor Circuits (Inductor as the load in a Thevenin Equiv Circuit) 
+- Transient/Storage Phase, qualitatively
+- Equation for the current and characteristics of
+- Development of VL(t) from iL(t) using KVL
+ 
+Reminders
+
+1) Keep reading the inductor sections of the text for Monday (11.5 - 11.7)
+
+2) HW#13 - Due Monday, 12/3 at the start of class
+- No late work will be accepted
+
+3) LAB - Don't forget to populate AND TEST your PCBs BEFORE lab next week
+
+
+
+
+

@@ -1,0 +1,56 @@
+  25-35 questions, all m/c (scantron forms), no partial credit
+        You will be given the text formula sheet (DC) and scrap paper
+    BRING a #2 pencil or dark pen and your Sharp EL-516 calculator
+        ** NO MAKEUP EXAMS **
+
+EEET 111, DC Circuits (Lecture), 12/17/2018, Monday 8:00AM - 10:30AM
+Institute Hall (INS)-1140
+
+Topical Outline/Suggested Chapter Problems to Review:
+-----------------------------------------------------
+CH3, Resistance, 2-4Q
+P17,26
+
+CH4, Ohm's Law, power, energy, etc, 2-4Q
+P34,50,60
+
+CH5, Series, 1-4Q
+P10,16,20
+
+CH6, Parallel, 1-4Q
+P7,15,18
+
+CH7, Series-Parallel, 3-7Q
+P3,4,15,17,45
+
+CH8, Branch, MESH, NODAL, 3-7Q
+P4,8,11,19,41,50
+
+CH9, Superposition, Norton, Thevenin, Max pwr transfer, 2-5Q
+P13,19
+
+CH10, Capacitors - Basic through transient analysis, series and parallel, steady-state, 4-8Q
+P21,26,29,40,52
+
+CH11, Inductors - Basic through transient analysis, series and parallel, steady state, 4-8Q
+P18,31,43,45,46
+
+Also For review:
+----------------
+- Special breakout problem sets (pre-exam#3, capacitors, inductors)
+- Our previous quizzes and exams covering this material
+- The example problems in the text on this material
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+Week 10 Session 02
+ 
+Mesh and Nodal analysis, voltage and power - In class problems (Lab #5 prelab...)
+- Nodal problem (3x3)
+- Mesh problem (3x3)
+- Discussion about equivalence
+- No posted sols (take notes, work these carefully)
+ 
+Reminders:
+ 
+1) Read up to section 9.5 before Friday's class
+ 
+2) Quiz this Friday, 11/02 (individual)
+- Nodal Analysis
+
+3) Exam #3 (CH7 through CH9) - NEXT WEEK: Wednesday,11/07
+
+
+
+
+
+ 

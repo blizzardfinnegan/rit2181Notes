@@ -1,0 +1,26 @@
+Week 5 Session 03
+
+Quiz #4 (Series circuits, KVL, power, power supplies and Voltage Regulation)
+
+Current divider through applications
+
+- Current Divider
+- Parallel Voltage Sources
+- Open and Short-Circuits
+- Voltmeter Loading
+- Application
+
+Reminders
+
+1) READ Chapter 7 through (at least) section 7.5 by Monday 
+
+2) HW#5 - Due at the start of lecture, Monday 
+
+3) Exam #2 next week, session 03 (Friday, 10/05 <- NOTE THE DATE)
+- Outline the on Monday
+
+
+
+ 
+
+

@@ -1,0 +1,30 @@
+Week 14 Session 02
+
+Inductor introduction
+
+    * Magnetic field and "flux," Faraday's Law - Reading
+    * Inductance and inductance calculations
+	Example
+	ICP
+    * Inductor models (ideal, high-frequency and low-frequency) and examples
+    * Types of inductors and examples
+
+    
+Reminders
+---------
+1) Keep reading the inductor sections of the text for Friday  
+
+2) Quiz #10 - Capacitor steady-state charge, Inductor Intro
+- This Friday
+- BRING YOUR CALCULATOR
+
+
+
+
+
+
+
+
+
+
+

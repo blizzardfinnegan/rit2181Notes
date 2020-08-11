@@ -1,0 +1,33 @@
+Week 12 Session 03 
+
+Quiz #8 - Capacitor Intro
+
+- Capacitor transient analysis continued - initial conditions (ICP and example)
+ 
+- Another example problem/ICP
+ 
+Reminders
+ 
+1) Continue reading in chapter 10 for Monday, 11/19 (ONLINE CLASS, no in-class meeting)
+
+2) Class Next Week, Monday, 11/19:
+- No in-class meeting, class is ONLINE
+- You will review the posted PDF handouts, work in-class problems on your own and then take an online quiz
+- The material will be posted by Monday morning at 8am
+- The quiz will be available from Monday, 11/19 at 12pm until Tuesday, 11/20 at 9pm (timed to 30 or 45 minutes)
+
+3) Office Hours next week, ONLY on Monday 11/19
+-> Added: 10-11am and 12-1pm (usual class times)
+
+4) Homework #12 - Due Monday, 11/26 at the start of class
+- Late assignments will not be accepted
+- Do NOT wait until the last minute to work this assignment, understanding this material is crucial on the final exam
+
+5) READ Chapter 11 through section 11.5 (Inductor intro material) BEFORE class on Monday, 11/26
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+Week 9 Session 02
+
+Today - NODAL ANALYSIS CONTINUED
+
+NODAL Analysis with a Voltage Source Present 
+- Modified supernode approach intro/example
+- Breakout problem
+- Source Transformation approach/example/breakout
+* This same in-class problem has been posted with an alternate solution - Using the modified supernode approach *
+
+Reminders
+1) NO Quiz this Friday 
+- Next week's quiz -> NODAL analysis, up to 3 nodes, individual assessment
+
+2) Start reading in chapter 9 (We will cover the Superposition Theorem on Friday)
+
+
+
+
+
+
+
+
+
+
+
+
+

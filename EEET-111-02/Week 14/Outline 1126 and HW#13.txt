@@ -1,0 +1,22 @@
+Week 14 Session 01 - Capacitor Review 
+
+Team Problem Set - Capacitor Breakout Problems 
+*Submit for participation credit, similar to final exam questions on capacitors*
+- Ctotal
+- Detailed charge/discharge problem (voltage, current, charge, initial condition)
+- Steady state conditions (voltage and charge)
+
+HW #13 - Chapter 11 (Inductors), Due next Monday, 12/03 at the start of class
+    * Individual:	Chapter 11 problems 2, 3, 6, P11 (Use L=250mH and E = 40mV)
+    * Team: 		Chapter 11 problems 10, 12 (Use L=5mH)
+
+Reminders
+---------
+1) Homework #12 - Due today at the start of class
+- Late assignments will not be accepted
+
+2) Re-read Chapter 11 through section 11.4 (Inductor intro material) BEFORE class on Wednesday, 11/28
+
+
+
+

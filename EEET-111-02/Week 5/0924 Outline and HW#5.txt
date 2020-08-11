@@ -1,0 +1,36 @@
+Week 5 Session 01 - Review through KCL
+ 
+Review through chapter 6 material
+- Breakout problems on circuit analysis
+- Parallel resistors
+- KCL
+ 
+HW#5 ASSIGNMENT - Due next week at the start of class (session 01)
+ 
+Individual:
+- Chapter 6 problems: 4 through 7, 8(a and b), 9, 10, 15, 18, 22, 27, 28b, 33, 41 (find I1 and I2)
+ 
+Team:
+- Chapter 6 problems: 39, 45, 47
+ 
+Reminders
+ 
+1) HW#4 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+ 
+2) Pop quiz soon??? - Series, Ohm's Law, power, Rt 
+* As usual - No formula sheet (closed books/notes) *
+ 
+3) Quiz on Friday - Series circuits, KVL, power, power supplies/VR 
+ 
+4) Keep reading in chapter 6
+
+5) Guest lecturer om Friday (10am session)
+
+ 
+
+
+
+

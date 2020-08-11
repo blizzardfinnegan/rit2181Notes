@@ -1,0 +1,25 @@
+Week 8 Session 02
+
+Today - MESH ANALYSIS CONTINUED
+- Mesh with current sources, intro and approaches
+- Examples
+- Breakout problem
+
+Reminder
+1) Quiz this Friday
+- Mesh analysis, up to a 3x3 system
+- KNOW the procedure, YOUR calculator and KVL
+
+2) Friday - More MESH analysis, 4x4 system
+* READ/UNDERSTAND Appendix B (method of determinants)
+
+
+
+
+
+
+
+
+
+
+

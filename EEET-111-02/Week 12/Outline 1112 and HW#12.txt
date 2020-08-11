@@ -1,0 +1,31 @@
+Week 12 Session 01
+
+Capacitor Transient Analysis - Charge Phase Continued
+ 
+- Review of the charge circuit equations, including tau
+- In class problem 
+	Find and sketch ic(t), Vc(t) and Vr(t)
+	Find vc(t) and ic(t) at t = 10ms (instantaneous value)
+- Multisim demo (of ICP)
+	Demo/important simulation steps
+	Verification 
+- More complicated R-C problem
+	Multiple resistors - Approach
+	Simulation verification
+
+Homework #12 - Due Monday, 11/26 at the start of class (online class/quiz NEXT Monday 11/19)
+ 
+* Individual:	Chapter 10, problems 29, 37, 40, 44 (Replace the two parallel capacitors with one 20 micro Farad capacitor and use Vc(0)=-4V), 52
+ 
+* Team: 	Chapter 10, problems 26 (use a 50V source instead of 30V), 53, 55
+ 
+Reminders 
+
+1) HW#11 Due at the start of class
+- Late assignments will not be accepted
+  
+2) Quiz this Friday - Capacitors (Intro and charge)
+
+  
+
+ 

@@ -1,0 +1,27 @@
+Week 7 Session 02
+
+Quiz #5 - Parallel Circuits and KCL
+
+Branch Current Analysis (section 8.3)
+- Description
+- Example
+- Simultaneous equations (calculator)
+- Breakout problem
+
+* Note the differences between the "old" EL-516X and "new" EL-516T...*
+
+Reminders
+
+1) Continue reading in chapter 8 for Monday (MESH Analysis, section 8.4)
+
+2) HW#7 Due next Monday
+
+
+
+
+
+
+
+
+
+
